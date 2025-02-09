@@ -1,0 +1,10 @@
+def indtous(x):
+    return x/83.2259
+def indtoeuro(x):
+    return x/91.9029
+def indtoyen(x):
+    return x*1.6946
+def indtoyuan(x):
+    return x*0.0852
+def indtoriyal(x):
+    return x*0.0451

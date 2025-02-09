@@ -1,0 +1,12 @@
+def add(x,y):
+    return x+y
+def sub(x,y):
+    return x-y
+def mul(x,y):
+    return x*y
+def div(x,y):
+    return x/y
+def power(base,exponent):
+    return base**exponent
+def modulo(x,y):
+    return x%y
